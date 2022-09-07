@@ -1,0 +1,17 @@
+{
+  "name": "random-movie-dependency",
+  "version": "1.0.0",
+  "description": "Random Movie Dependency install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Sajeeb Chakraborty",
+  "license": "ISC",
+  "dependencies": {
+    "random-movie-names": "^1.0.2"
+  }
+}

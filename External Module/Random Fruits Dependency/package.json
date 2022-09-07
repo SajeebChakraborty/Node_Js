@@ -1,0 +1,17 @@
+{
+  "name": "random-fruits-dependency",
+  "version": "1.0.0",
+  "description": "Random Fruits Dependency Install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Sajeeb Chakraborty",
+  "license": "ISC",
+  "dependencies": {
+    "random-fruits-name": "^1.9.5"
+  }
+}
